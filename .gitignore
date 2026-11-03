@@ -1,11 +1,2 @@
-__pycache__/
-*.pyc
-.pytest_cache/
-venv/
-.venv/
-.streamlit/secrets.toml
-*.env
-data/raw_documents/*.pdf
-data/processed_data/*.db
-!data/raw_documents/.gitkeep
-!data/processed_data/.gitkeep
+# Created by pytest automatically.
+*
